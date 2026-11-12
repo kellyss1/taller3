@@ -1,0 +1,23 @@
+cd llama-cpp
+./llama-cli --version
+./llama-server
+
+https://github.com/ggml-org/llama.cpp/releases
+
+https://huggingface.co/lmstudio-community/gemma-4-E2B-it-GGUF/tree/main
+
+https://huggingface.co/lmstudio-community/gemma-3-1B-it-qat-GGUF
+
+https://lmstudio.ai/models/google/gemma-3-1b
+
+ ./llama-server --model ./modelos/gemma-3-1B-it-QAT-Q4_0.gguf
+
+
+
+
+
+
+---------------------
+prog
+
+https://github.com/microsoft/vcpkg/releases/tag/2026.10.16
